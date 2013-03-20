@@ -36,7 +36,7 @@ And even delete some tags:
 
 Install it yourself as:
 
-    % gem install taggert
+    % cabal install taggert
 
 ## Usage
 
